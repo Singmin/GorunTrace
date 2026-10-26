@@ -1,0 +1,8 @@
+.tools
+.git
+data
+bin
+web/node_modules
+web/dist
+*.db*
+dashboard-mockup.png
